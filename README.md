@@ -2,7 +2,7 @@
 
 A small but complete project for LLM **post-training**:
 
-- Supervised Fine-tuning (SFT)
+- Supervised Fine-tuning
 - DPO-based preference optimization
 - Basic reasoning evaluation
 
@@ -72,4 +72,5 @@ llm-post-training/
         │   └── train_dpo.py
         └── eval
             └── eval_reasoning.py
+
 ```
